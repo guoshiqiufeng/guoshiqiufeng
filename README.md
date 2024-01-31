@@ -1,5 +1,8 @@
 ### Hi there 👋
-![morrySnow's GitHub stats](https://github-readme-stats.vercel.app/api?username=guoshiqiufeng&show_icons=true&theme=jolly)
+![guoshiqiufeng's GitHub stats](https://github-readme-stats.vercel.app/api?username=guoshiqiufeng&show_icons=true&theme=jolly&line_height=24)
+![guoshiqiufeng's Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guoshiqiufeng&layout=compact&langs_count=8&theme=jolly)
+
+
 <!--
 **guoshiqiufeng/guoshiqiufeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
